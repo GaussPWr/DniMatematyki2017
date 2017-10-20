@@ -31,19 +31,20 @@ Zasadniczo zadanie dotyczy pobawienia się z samymi możliwościami biblioteki *
 * Uprawianiem sportu a zdrowiem
 * Zdrowiem a godzinami spędzanymi przed komputerem
 * Histogram pomiędzy osiaganą średnią a aktywnością studencką
+* ... - Kreatywnosć zalecana :smirk:
 
 ## Zależności
 Jeżeli występują u Ciebie problemy z importowaniem bibliotek, musisz z poziomu okna polecenia wywołać:
-'''
+```
 pip install pandas bokeh==0.12.6
-'''
+```
 Bądź:
-'''
+```
 conda install pandas bokeh==0.12.6
-'''
+```
 
 Jeżeli nie masz uprawnień administratora, polecenie powinno przyjać formę:
-'''
+```
 pip install --user pandas bokeh==0.12.6
-'''
+```
 
